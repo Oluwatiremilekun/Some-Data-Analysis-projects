@@ -1,4 +1,7 @@
-# Some-Data-Science-projects
-These are some of the collection of my data science project. This is not all so i will be adding other projects to them as time goes by.
-## These project include:
-(1)  Amazon web scraper project: This project is about web scraping which is a good start for a data analyst or scientist
+# Data Analyst Portfolio Project Repository
+
+This Repository will hold all of the code and queries from the Portfolio Projects we create.
+
+Please feel free to take these and run with them. Make them your own and find you own insights
+
+I really do hope this is helpful and helps you land that dream job! :D
